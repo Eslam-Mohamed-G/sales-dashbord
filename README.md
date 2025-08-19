@@ -25,6 +25,8 @@ The goal of this project is to extract insights using pivot tables and visualize
   - Profit distribution
   - Top-selling products
   - Category and sub-category insights
+![Add Dashboard Preview](./images/preview-2.png)
+![Add Dashboard Preview](./images/preview-3.png)
 
 ## 🚀 Key Features
 - Data cleaning and preparation in Excel.
